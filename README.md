@@ -32,3 +32,6 @@
 * `mvn clean` 删除 target
 * `mvn install` 安装jar包到本地仓库
 
+### maven快速创建项目骨架目录 ###
+* `mvn archetype:generate`
+* `mvn archetype:generate -DgroupId=com.imooc.maven  -DartifactId=maven-service -Dversion=1.0.0SNAPSHOT -Dpackage=com.imooc.maven.demo`
