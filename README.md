@@ -5,6 +5,6 @@
   * bin目录是包含mvn的运行脚本
   * boot目录包含一个类加载器的框架，maven使用它加载自己的类库
   * conf配置文件
-  * lib包含maven运行时的依赖类库
+  * 在lib包含maven运行时的依赖类库
   
 * mac ox 命令行安装：`brew install maven`
