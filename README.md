@@ -28,7 +28,7 @@
 * `mvn -v` 查看maven版本
 * `mvn compile` 编译 （编译源代码，如果需要包，去pom.xml里找依赖，如果本地仓库有，就加载到classpath里。如果本地没有，就去maven网上仓库下载）
 * `mvn test` 测试
-* `mvn package` 打包
+* `mvn package` 打jar包
 * `mvn clean` 删除 target
 * `mvn install` 安装jar包到本地仓库
 
