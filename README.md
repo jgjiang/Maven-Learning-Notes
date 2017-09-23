@@ -30,4 +30,4 @@
 * `mvn test` 测试
 * `mvn package` 打包
 * `mvn clean` 删除 target
-* `mvn install` 安装到本地仓库
+* `mvn install` 安装jar包到本地仓库
