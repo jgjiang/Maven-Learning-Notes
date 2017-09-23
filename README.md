@@ -8,3 +8,15 @@
   * 在lib包含maven运行时的依赖类库
   
 * mac ox 命令行安装：`brew install maven`
+
+```
+项目名
+		-src 
+		   -main
+		        -java
+		             -package
+		   -test
+		        -java
+		             -package
+		-pom.xml
+```
