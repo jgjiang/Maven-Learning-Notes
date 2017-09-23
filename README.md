@@ -34,4 +34,4 @@
 
 ### maven快速创建项目骨架目录 ###
 * `mvn archetype:generate` 根据提示进行
-* `mvn archetype:generate -DgroupId=组织名，公司网址反写-项目名  -DartifactId=项目名-模块名 -Dversion=版本号 -Dpackage=com.imooc.maven.demo`
+* `mvn archetype:generate -DgroupId=组织名，公司网址反写-项目名  -DartifactId=项目名-模块名 -Dversion=版本号 -Dpackage=代码所在的包`
