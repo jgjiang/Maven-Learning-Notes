@@ -9,7 +9,8 @@
   
 * mac ox 命令行安装：`brew install maven`
 
-
+### maven项目目录简版
+```
 项目名
 		-src 
 		   -main
@@ -19,5 +20,6 @@
 		        -java
 		             -package
 		-pom.xml
-		
+```
+
 		
