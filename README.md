@@ -27,4 +27,7 @@
 ### maven常用命令 ###
 * `mvn -v` 查看maven版本
 * `mvn compile` 编译
-* `mvn compile` 编译
+* `mvn test` 测试
+* `mvn package` 打包
+* `mvn clean` 删除 target
+* `mvn install` 安装到本地仓库
