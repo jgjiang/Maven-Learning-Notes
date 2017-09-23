@@ -25,6 +25,6 @@
 
 
 ### maven常用命令 ###
-`mvn -v` 查看maven版本
-`mvn compile` 编译
-`mvn compile` 编译
+* `mvn -v` 查看maven版本
+* `mvn compile` 编译
+* `mvn compile` 编译
